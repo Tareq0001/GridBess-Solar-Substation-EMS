@@ -1,0 +1,16 @@
+{
+  "name": "gridbess-solar-substation-ems",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GRID-BESS: Utility-Scale Solar PV, Battery Energy Storage (BESS) & 132kV Substation EMS - Industrial Digital Twin by Tareq Abuashi",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vite": "^6.2.0"
+  }
+}
